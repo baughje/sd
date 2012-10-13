@@ -10,8 +10,14 @@
     <header>
       <%= render 'layouts/navbar' %>
     </header>
-    <div class='container'>
+    <div id='main' class='container'>
       <%= yield %>
+    </div>
+    <hr/>
+    <div class='container'>
+      <footer>
+        <p>&copy; Smoked Delights</p>
+      </footer>
     </div>
   </body>
 </html>
