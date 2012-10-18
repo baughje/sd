@@ -5,6 +5,9 @@ gem 'pg'
 gem 'therubyracer'
 gem 'devise'
 gem 'cancan'
+gem 'rails-backbone'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
 
 # Gems used only for assets and not required
 # in production environments by default.
