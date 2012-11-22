@@ -308,7 +308,7 @@
     </control>
     <control controlID="111" controlTypeID="com.balsamiq.mockups::TextArea" x="528" y="144" w="212" h="141" measuredW="200" measuredH="140" zOrder="62" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>ITEM%20NAME%3A%20Seasoning%0AITEM%20DESCRIPTION%3A%20Original%20Seasoning%0AITEM%20PRICE%3A%207.50%0AITEM%20IMAGE%3A%0ABATCH%20ITEM%3F%3A</text>
+        <text>ITEM%20NAME%3A%20Bleu%20Cheese%0AITEM%20DESCRIPTION%3A%20L%27Auberge%20Fromage%20Bleu%0AITEM%20PRICE%3A%207.50%0AITEM%20IMAGE%3A%0ABATCH%20ITEM%3F%3A</text>
       </controlProperties>
     </control>
     <control controlID="112" controlTypeID="com.balsamiq.mockups::TextInput" x="618" y="208" w="-1" h="-1" measuredW="114" measuredH="27" zOrder="63" locked="false" isInGroup="-1">
