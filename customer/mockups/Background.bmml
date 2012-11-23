@@ -16,7 +16,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::CallOut" x="832" y="333" w="-1" h="-1" measuredW="198" measuredH="37" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::CallOut" x="832" y="333" w="-1" h="-1" measuredW="198" measuredH="39" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Background%20images%20will%20rotate</text>
       </controlProperties>

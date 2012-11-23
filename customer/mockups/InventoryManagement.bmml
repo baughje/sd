@@ -60,7 +60,7 @@
         <text>Salsa</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::IconLabel" x="785" y="75" w="-1" h="-1" measuredW="112" measuredH="69" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::IconLabel" x="858" y="75" w="-1" h="-1" measuredW="112" measuredH="69" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Jeb%20Baugh%20-%20Admin</text>
       </controlProperties>
@@ -298,6 +298,11 @@
     <control controlID="108" controlTypeID="com.balsamiq.mockups::HCurly" x="382" y="526" w="437" h="80" measuredW="200" measuredH="80" zOrder="59" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Admin%20will%20add%20to%20cheese%20to%20individual%20batches.%20%20Later%20iterations%20will%20have%20a%20way%20to%20subtract%20and%20move%20between%20batches.%20%20The%20%22Needed%22%20text%20box%20will%20display%20the%20sum%20of%20the%20added%20items.</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::TextInput" x="771" y="77" w="-1" h="-1" measuredW="89" measuredH="27" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+%20NEW%20ITEM</text>
       </controlProperties>
     </control>
   </controls>
